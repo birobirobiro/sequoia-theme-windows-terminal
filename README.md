@@ -1,6 +1,6 @@
 ![Sequoia Theme Header](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
-# Sequoia for APP
+# Sequoia for Windows Terminal
 Sequoia theme adapted to Windows Terminal
 
 # Instructions
