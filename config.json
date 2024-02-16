@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "background": "#0F1014",
+      "black": "#0F1014",
+      "blue": "#8EB6F5",
+      "brightBlack": "#868690",
+      "brightBlue": "#8EB6F5",
+      "brightCyan": "#61D6D6",
+      "brightGreen": "#69F56E",
+      "brightPurple": "#C58FFF",
+      "brightRed": "#F58EE0",
+      "brightWhite": "#FDFDFE",
+      "brightYellow": "#FFBB88",
+      "cursorColor": "#FDFDFE",
+      "cyan": "#3A96DD",
+      "foreground": "#FDFDFE",
+      "green": "#69F56E",
+      "name": "Sequoia-Theme",
+      "purple": "#C58FFF",
+      "red": "#F58EE0",
+      "selectionBackground": "#FDFDFE",
+      "white": "#FDFDFE",
+      "yellow": "#FFBB88"
+    }
+  ]
+}
