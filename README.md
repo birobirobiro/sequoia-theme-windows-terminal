@@ -21,10 +21,6 @@ Here's the gist:
 
 # Available themes:
 
-Moonlight:
-
-## Screenshots
-
 ### Moonlight
 ![Moonlight](./assets/preview.png)
 
